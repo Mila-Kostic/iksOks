@@ -1,0 +1,16 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.container {
+    width:300px;
+    height: 300px;
+    margin: 50px auto;
+    box-shadow: 0 0 8px #ddd;
+}
