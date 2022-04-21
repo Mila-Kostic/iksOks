@@ -9,8 +9,23 @@ body {
 }
 
 .container {
-    width:300px;
+    width: 300px;
     height: 300px;
     margin: 50px auto;
     box-shadow: 0 0 8px #ddd;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 1px solid #eee;
+    box-sizing: border-box;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 44px;
+    color: #dddddd;
+
+
 }
